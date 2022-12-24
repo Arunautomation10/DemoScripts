@@ -4,7 +4,7 @@ public class DemoGit {
 
 	public static void main(String[] args) {
 		
-		String name = "Shravani";
+		String name = "Arun";
 		
 		StringBuffer sb = new StringBuffer(name);
 		String rev = sb.reverse().toString();
