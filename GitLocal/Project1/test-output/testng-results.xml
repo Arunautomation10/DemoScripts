@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-19T23:33:18 IST" name="Default suite" finished-at="2022-12-19T23:33:18 IST" duration-ms="288">
+    <groups>
+    </groups>
+    <test started-at="2022-12-19T23:33:18 IST" name="Default test" finished-at="2022-12-19T23:33:18 IST" duration-ms="288">
+      <class name="com.GitDemo.GitProject.complexJson">
+        <test-method signature="courseSize()[pri:1, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="courseSize" finished-at="2022-12-19T23:33:18 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseSize -->
+        <test-method signature="purchaseAmt()[pri:2, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="purchaseAmt" finished-at="2022-12-19T23:33:18 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseAmt -->
+        <test-method signature="courseTitle()[pri:3, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="courseTitle" finished-at="2022-12-19T23:33:18 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- courseTitle -->
+        <test-method signature="titles()[pri:4, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="titles" finished-at="2022-12-19T23:33:18 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titles -->
+        <test-method signature="copiesCount()[pri:5, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="copiesCount" finished-at="2022-12-19T23:33:18 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- copiesCount -->
+        <test-method signature="sumPrice()[pri:6, instance:com.GitDemo.GitProject.complexJson@1be59f28]" started-at="2022-12-19T23:33:18 IST" name="sumPrice" finished-at="2022-12-19T23:33:18 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumPrice -->
+      </class> <!-- com.GitDemo.GitProject.complexJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
